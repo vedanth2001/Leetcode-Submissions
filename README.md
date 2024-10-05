@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0016-3sum-closest) |
+| [0454-4sum-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0454-4sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0454-4sum-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0454-4sum-ii) |
 <!---LeetCode Topics End-->
