@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0454-4sum-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0454-4sum-ii) |
+| [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
