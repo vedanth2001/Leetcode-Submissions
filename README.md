@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
