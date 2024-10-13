@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0274-h-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0274-h-index) |
