@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -189,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
