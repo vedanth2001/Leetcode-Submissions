@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0075-sort-colors) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
