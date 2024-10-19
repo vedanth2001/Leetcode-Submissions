@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
