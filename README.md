@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0454-4sum-ii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
 ## Enumeration
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
