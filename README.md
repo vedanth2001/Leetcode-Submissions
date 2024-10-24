@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
