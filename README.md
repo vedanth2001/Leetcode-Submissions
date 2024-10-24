@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2240-intervals-between-identical-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2240-intervals-between-identical-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
+| [2240-intervals-between-identical-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2240-intervals-between-identical-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -224,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [2240-intervals-between-identical-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2240-intervals-between-identical-elements) |
 <!---LeetCode Topics End-->
