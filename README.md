@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0057-insert-interval) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
