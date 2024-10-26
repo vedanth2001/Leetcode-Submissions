@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
@@ -240,5 +242,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0525-contiguous-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [2240-intervals-between-identical-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2240-intervals-between-identical-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
