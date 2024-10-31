@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2122-count-special-quadruplets) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
 ## Binary Indexed Tree
