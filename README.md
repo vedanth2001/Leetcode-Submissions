@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
