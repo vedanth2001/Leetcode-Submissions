@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0686-repeated-string-match](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0686-repeated-string-match) |
@@ -316,5 +317,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
