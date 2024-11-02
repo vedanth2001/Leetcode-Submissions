@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0686-repeated-string-match](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
