@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1508-longest-happy-prefix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3533-snake-in-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/3533-snake-in-matrix) |
 ## Binary Indexed Tree
@@ -322,4 +323,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
