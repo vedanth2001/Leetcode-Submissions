@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0344-reverse-string) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0567-permutation-in-string) |
