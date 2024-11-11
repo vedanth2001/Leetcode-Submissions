@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Interactive
 |  |
