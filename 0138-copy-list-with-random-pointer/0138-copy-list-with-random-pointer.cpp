@@ -20,6 +20,7 @@ public:
         if (!head) return NULL; 
         Node* curr = head;
         Node* next;
+        //phase 1: add duplicate nodes
         while(curr!=NULL){
             next = curr->next;
             curr->next = new Node(curr->val);
@@ -27,6 +28,7 @@ public:
             curr = next;
         }
         curr = head;
+        //phase 2: 
         while(curr!=NULL && curr->next!=NULL){
             if(curr->random!=NULL){
                 curr->next->random = curr->random->next;
@@ -37,6 +39,7 @@ public:
                 curr=curr->next->next;
             }
         }
+        //phase 3: de-link the two lists
         Node* original = head;
         Node* copy = head->next;
 
