@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
