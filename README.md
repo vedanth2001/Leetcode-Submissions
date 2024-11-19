@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String
 |  |
 | ------- |
@@ -394,9 +397,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0143-reorder-list) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
