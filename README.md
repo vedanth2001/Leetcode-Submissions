@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2240-intervals-between-identical-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2240-intervals-between-identical-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2355-maximum-consecutive-floors-without-special-floors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
