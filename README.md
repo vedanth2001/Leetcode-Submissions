@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bucket Sort
 |  |
