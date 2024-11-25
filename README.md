@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0164-maximum-gap) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0739-daily-temperatures) |
