@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2411-spiral-matrix-iv) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Prefix Sum
 |  |
@@ -434,12 +437,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 ## Monotonic Queue
 |  |
 | ------- |
