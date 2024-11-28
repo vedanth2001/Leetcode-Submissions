@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -510,4 +515,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
