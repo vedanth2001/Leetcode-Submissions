@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
