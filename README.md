@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
