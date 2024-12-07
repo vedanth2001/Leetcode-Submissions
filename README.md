@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1185-find-in-mountain-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bucket Sort
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -560,4 +565,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
