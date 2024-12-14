@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 ## Bit Manipulation
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Heap (Priority Queue)
@@ -264,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -490,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
