@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 ## Monotonic Queue
