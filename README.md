@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Recursion
 |  |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0513-find-bottom-left-tree-value) |
