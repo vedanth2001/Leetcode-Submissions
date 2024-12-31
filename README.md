@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0392-is-subsequence) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
