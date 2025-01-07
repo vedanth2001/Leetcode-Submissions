@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
 | ------- |
