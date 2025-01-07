@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
