@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Dynamic Programming
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
