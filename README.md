@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1428-jump-game-iii) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1428-jump-game-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0871-keys-and-rooms) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2793-count-the-number-of-complete-components](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
