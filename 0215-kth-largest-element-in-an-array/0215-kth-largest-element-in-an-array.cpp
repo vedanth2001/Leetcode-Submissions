@@ -1,11 +1,18 @@
 class Solution {
 public:
+    struct myComp{
+    bool operator()(int a, int b) {
+            return a > b;  
+        }
+    };
     int findKthLargest(vector<int>& nums, int k) {
-        priority_queue<int, vector<int>, greater<int>> pq;
         int n = nums.size();
-        for(int i =0;i<n;i++){
-            if(pq.size() < k) pq.push(nums[i]);
-            else if(pq.top() < nums[i]) {
+        priority_queue<int, vector<int>, myComp> pq;
+        for(int i =0;i<k;i++){
+            pq.push(nums[i]);
+        }
+        for(int i=k;i<n;i++){
+            if(nums[i] > pq.top()){
                 pq.pop();
                 pq.push(nums[i]);
             }
