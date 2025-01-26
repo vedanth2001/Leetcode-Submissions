@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0808-number-of-matching-subsequences](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0808-number-of-matching-subsequences) |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0654-maximum-binary-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Interactive
 |  |
@@ -307,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0744-network-delay-time) |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -744,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
