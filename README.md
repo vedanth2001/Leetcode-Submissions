@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0096-unique-binary-search-trees) |
@@ -759,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vedanth2001/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vedanth2001/Leetcode-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
