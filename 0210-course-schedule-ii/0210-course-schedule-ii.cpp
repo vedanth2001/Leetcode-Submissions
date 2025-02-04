@@ -1,34 +1,31 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<int> courseOrder;
         vector<vector<int>> adj(numCourses);
-        vector<int> result;
-        queue<int>q;
-        for(auto &v: prerequisites){
-            adj[v[1]].push_back(v[0]);
+        vector<int> indegree(numCourses);
+        for(auto nodes: prerequisites){
+            adj[nodes[1]].push_back(nodes[0]);
+            indegree[nodes[0]]++;
         }
-        vector<int> inDeg(numCourses);
+        queue<int> q;
         for(int i =0;i<numCourses;i++){
-            for(int &v:adj[i]){
-                inDeg[v]++;
+            if(indegree[i]==0){
+                q.push(i);
             }
-        }
-        for(int i =0;i<numCourses; i++){
-            if(inDeg[i]==0)
-            q.push(i);
         }
         while(!q.empty()){
-            int curr = q.front();
+            int node = q.front();
             q.pop();
-            result.push_back(curr);
-            for(int &v:adj[curr]){
-                inDeg[v]--;
-                if(inDeg[v]==0)q.push(v);
+            courseOrder.push_back(node);
+            for(auto neighbour: adj[node]){
+                indegree[neighbour]--;
+                if(indegree[neighbour]==0){
+                    q.push(neighbour);
+                }
             }
         }
-        if (result.size() != numCourses) {
-            return {}; 
-        }
-        return result;
+        if(courseOrder.size() != numCourses) return {}; 
+        return courseOrder;
     }
 };
